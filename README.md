@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <img width="540" src="https://lanyard.cnrad.dev/api/757619691660509355?theme=dark&animated=true&borderRadius=20px&v=6"/>
+</div>
 
-<!--
-**shotwa/shotwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shota&label=Visitors&color=7A9CFF&style=for-the-badge"/>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=36&duration=2500&pause=1000&color=7A9CFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+shota;FullStack+Developer;Node.js+%7C+Python+%7C+TypeScript"/>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-7A9CFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Loves-Clean%20Code-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Always-Learning-00C896?style=for-the-badge"/>
+</p>
+
+<h2 align="center">⚡ Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,python,ts,docker,redis&theme=dark"/>
+</p>
+
+<h2 align="center">🤝 Contact</h2>
+<p align="center">
+  <a href="https://discord.com/users/757619691660509355">
+    <img src="https://img.shields.io/badge/Discord-Join%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shota">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A9CFF,100:3256A8&height=160&section=footer"/>
+</p>
