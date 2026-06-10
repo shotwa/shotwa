@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="540" src="https://lanyard.cnrad.dev/api/757619691660509355?theme=light&animated=true&borderRadius=20px&v=6"/>
+  <img width="540" src="https://lanyard.cnrad.dev/api/757619691660509355?theme=dark&animated=true&borderRadius=20px&v=6"/>
 </div>
 
 <p align="center">
